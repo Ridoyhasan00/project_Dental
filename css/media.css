@@ -1,0 +1,414 @@
+@media(min-width:2500px){
+    .banner img {
+        right: 40px;
+    }
+    .first_nav {
+        padding: 30px 0px;
+        min-height: 10vh;
+    }
+    .owl-carousel .owl-item img {
+        width: 50%;
+    }
+    .appointment {
+        padding: 30px 30px;
+    }
+}
+
+@media(min-width:1920px){
+    .height {
+        min-height: 83vh;
+    }
+    .heading img {
+        width: 5%;
+    }
+}
+
+@media(max-width:1024px){
+    .first_nav {
+        min-height: 10vh;
+    }
+    .second_nav {
+        min-height: 7vh;
+    }
+    .height {
+        min-height: 83vh;
+    }
+    .doctor_showcase {
+        padding: 50px 10%;
+    }
+    .heading img {
+        width: 7%;
+    }
+    .service_section {
+        padding: 50px 10%;
+    }
+    .pricing_section {
+        padding: 50px 10%;
+    }
+    .client_section {
+        padding: 50px 12%;
+    }
+    .plus_logo img {
+        width: 50%;
+    }
+}
+@media(min-width:768px) and (max-width:992px){
+    .desktop_hide{
+        display: block;
+        width: 50%;
+    }
+    .dental_logo{
+        display: none;
+    }
+    .first_nav{
+        display: none;
+    }
+    .appointment {
+        display: none;
+    }
+    
+    .second_nav_info {
+        display: block;
+        width: 50%;
+        padding-top: 2%;
+    }
+    .navbar-collapse {
+        display: flex;
+    }
+    .navbar-nav{
+        width: 50%;
+    }
+    .header_contact {
+        justify-content: left;
+        flex-wrap: wrap;
+    }
+    .nav-link:hover{
+        color: #c89c7c;
+        display: inline-block;
+    }
+    
+    .height {    
+        min-height: 95vh;
+    }
+    .banner img {
+        right: 4%;
+    }
+    .header_contact ul {
+        margin-bottom: 20px;
+    }
+    .second_nav_info .appointment{
+        display: block;
+    }
+    .height_left {
+        padding: 20px 65px;
+    }
+    .banner_carousel .owl-nav .owl-prev {
+        left: 0;
+    }
+    .banner_carousel .owl-nav .owl-next {
+        right: 0%;
+    }
+    .agency_details {
+        padding-top: 60%;
+    }
+    .dentist_02 img {
+        width: 100%;
+        right: 15%;
+        bottom: 0;
+    }
+    .content_heading {
+        padding: 50px 0;
+        /* text-align: center; */
+    }
+    .heading img {
+        width: 10%;
+        
+        padding: 15px 0;
+    }
+    .doctor_showcase {
+        
+        padding: 50px 0%;
+    }
+    .banner_carousel .owl-dots {
+        
+        bottom: -60px;
+    }
+    .contact_content h4 {
+    font-weight: 600;
+    font-size: 17px;
+    }
+    .client_section {
+        padding: 50px 7%;
+    }
+    .pricing_section {
+        padding: 50px 0;
+    }
+    .teble_heading h2 {
+        font-size: 20px;
+    }
+    .teble_heading p {
+        font-size: 14px;  
+    }
+    .price_info p {
+        font-size: 15px;
+    }
+    .service_section {
+        padding: 50px 10%;
+    }
+    .service_heading img {
+        width: 15%;
+    }
+    .agency_details {
+        padding: 0px;
+        padding-top: 0;
+    }
+    .plus_logo img {
+        width: 70%;
+    }
+    .dental_plus p {
+        padding: 47px 0px 10px;
+        font-size: 15px;
+    }
+    .plus_content p {
+        padding: 0px;
+    }
+    .newsletter_section {
+        padding: 35px 0%;
+    }
+    .newsletter_icon ul li a {
+        margin-top: 10px;
+    }
+    .plus_logo img {
+        width: 50%;
+    }
+
+}
+
+@media(max-width:767px){
+    .desktop_hide{
+        display: block;
+        width: 50%;
+    }
+    .dental_logo{
+        display: none;
+    }
+    .first_nav{
+        display: none;
+    }
+    .appointment {
+        display: none;
+    }
+    
+    .second_nav_info {
+        display: block;
+        width: 50%;
+        padding-top: 2%;
+    }
+    .navbar-collapse {
+        display: flex;
+    }
+    .navbar-nav{
+        width: 50%;
+    }
+    .header_contact {
+        justify-content: left;
+        flex-wrap: wrap;
+    }
+    .nav-link:hover{
+        color: #c89c7c;
+        display: inline-block;
+    }
+    
+    .banner {    
+        min-height: 95vh;
+    }
+    .banner img {
+        right: 4%;
+    }
+    .header_contact ul {
+        margin-bottom: 20px;
+    }
+    .second_nav_info .appointment{
+        display: block;
+    }
+    .height_left {
+        padding: 20px 65px;
+    }
+    .banner_carousel .owl-nav .owl-prev {
+        left: 0;
+    }
+    .banner_carousel .owl-nav .owl-next {
+        right: 0%;
+    }
+    .agency_details {
+        padding-top: 60%;
+    }
+    .dentist_02 img {
+        width: 80%;
+        right: 7%;
+    }
+    .content_heading {
+        padding: 60px 60px;
+        text-align: center;
+    }
+    .heading img {
+        width: 10%;
+        
+        padding: 15px 0;
+    }
+    .doctor_showcase {
+        padding: 50px 0%;
+    }
+    .banner_carousel .owl-dots { 
+        bottom: -60px;
+    }
+    .service_section {
+        padding: 50px 0%;
+    }
+    .heading {
+        margin-bottom: 15px;
+    }
+    .newsletter_icon ul {
+        padding-left: 36px;
+    }
+    .Learn-btn {
+        margin-top: 10px;
+    }
+}
+@media(max-width:576px){
+     .owl-nav .owl-next {
+        display: none;
+    }
+    .owl-nav .owl-prev {
+        display: none;
+    }
+
+
+    .height_left {
+        padding: 20px 13%;
+    }
+    .dentist_02 img {
+        width: 55%;
+        right: 23%;
+    }
+
+    .doctor_showcase {
+        padding: 35px 5%;
+    }
+
+    .service_section {
+        padding: 35px 15%;
+    }
+    .pricing_section {
+        padding: 35px 10%;
+    }
+    
+}
+@media(max-width:425px){
+    .service_section {
+        padding: 35px 2%;
+    }
+    .brand_carousel .owl-nav .owl-next {
+        display: none;
+    }
+    .brand_carousel .owl-nav .owl-prev {
+        display: none;
+    }
+    .navbar-nav {
+         width: 40%; 
+    }
+    .second_nav_info {
+        width: 64%;
+    }
+    .dental_plus p {
+        padding: 35px 0px 20px;
+    }
+    .dental_plus p {
+        padding: 35px 0px 20px;
+        font-size: 14px;
+    }
+    .comment_section h4 {
+        font-size: 20px;
+        font-weight: 600;
+        padding: 15px 0;
+    }   
+    .newsletter_icon ul {
+        
+        margin-top: 15px;
+    }
+}
+@media(max-width:375px){
+    .book {
+        padding: 8px;
+    }
+    .banner_carousel .owl-nav .owl-next {
+        display: none;
+    }
+    .banner_carousel .owl-nav .owl-prev {
+        display: none;
+    }
+    .content_heading {
+        padding: 15px 3%;
+    }
+    .heading img {
+        width: 15%;
+    }
+    .Learn-btn {
+        padding: 5px 15px;
+        margin-top: 10px;
+    }
+    .contact_content h4 {
+        font-weight: 600;
+        font-size: 17px;
+    }
+    .appointment {
+        background-color: #f69165;
+        padding: 8px 20px;
+    }
+    .owl-carousel .owl-item img {
+        width: 55%;
+    }
+    .dental_plus p {
+        padding: 25px 0px 0px;
+         font-size: 15px;
+    }
+    .plus_content p{
+
+    }
+    .plus_logo img {
+        width: 40%;
+    }
+}
+@media(max-width:320px){
+    .navbar-nav {
+        width: 35%;
+    }
+    
+    .banner h2 {
+        font-size: 20px;
+    }
+    .pricing_section {
+        padding: 35px 2%;
+    }
+    .heading img {
+        width: 18%;
+    }
+    .heading p {
+        margin-bottom: 20%;
+    }
+    .plus_logo img {
+        width: 50%;
+    }
+    .dental_plus p {
+        padding: 25px 0px 0px;
+        font-size: 14px;
+    }
+    .newsletter_icon ul li a {
+        margin-top: 15px;
+    }
+    .newsletter_icon ul {
+        list-style: none;
+        margin-top: 0px;
+    }
+    
+}
